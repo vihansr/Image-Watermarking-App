@@ -28,7 +28,7 @@ pip install pillow
 
 ## File Structure
 ```
-/your_project_directory
+/Image-Watermarking-App
 │── main.py         # Main script for the application
 │── README.md       # Documentation (this file)
 ```
